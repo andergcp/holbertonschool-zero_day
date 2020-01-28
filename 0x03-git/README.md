@@ -1,0 +1,1 @@
+This directory is about working whit Git and branches
